@@ -74,8 +74,8 @@ When the solution was run these were the results.
 ### Speed
 #### Sort
 The order in which algorithms took to sort 2 million vehicles 10 times:
-1. Merge Sort ***3-4 seconds***
-2. Quick Sort ***14-15 seconds***
+1. Merge Sort ***6-8 seconds***
+2. Quick Sort ***4 minutes***
 3. Selection Sort ***30-40 minutes***
 4. Bubble Sort ***> 1 hour*** 
 
