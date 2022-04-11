@@ -48,8 +48,6 @@ int main()
 	printf("\nSort time:  %dm%ds\n", (int)diff_t/60, (int)diff_t%60);
 	printf("\nTotal time (read data, calculate distances, sort):  %dm%ds\n", (int)total_t / 60, (int)total_t % 60);
 	
-	printf("Press any key to exit");
-	scanf("%d", &algo);
 	
 	return 0;
 }
