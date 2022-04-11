@@ -94,7 +94,7 @@ The top ten closest places for each reference coordinate was calculated and show
 
 **Quick sort**
 ![[https://github.com/senzo-lab/Vehicle-Positions-/blob/main/Capture2.png]]
-<img src="capture2.jpg"/>
+<img src="capture2.png"/>
 
 ## Type of solutions
 I created two solutions for this project, `main` for the best performing algorithm and `allsorts` where you can choose which algorithm you want to use or test.
