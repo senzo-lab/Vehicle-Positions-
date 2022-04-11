@@ -90,7 +90,7 @@ Merge Sort and quicksort were memory intensive. Therefore arrays were declared o
 The top ten closest places for each reference coordinate was calculated and shown. Each column corresponds to a reference coordinate/point. The  *position ID* for the top ten vehicles for a particular point is listed in that column.
 
 **Merge Sort**
- Capture](https://user-images.githubusercontent.com/70967943/162728327-5495e6cf-f9b5-4bea-a2c7-4c4c39c0d136.png)
+ ![Capture](https://user-images.githubusercontent.com/70967943/162728327-5495e6cf-f9b5-4bea-a2c7-4c4c39c0d136.png)
 
 **Quick sort**
 ![[https://github.com/senzo-lab/Vehicle-Positions-/blob/main/Capture2.png]]
