@@ -9,7 +9,6 @@ Image
 ### Read data
 - Create a struct to represent the position data in memory. This will make it easy to manapulate each vehicle as a single entity. The vehicles will be stored in an array in heap memory as it's a large dataset.
 - Read *positions.dat* using *fread.* Data in *positions* is stored sequentially and will be read sequentially. Some vehicle data is not necessary for this problem like *registration*, *UTCTimestamp*. This data was not used to save memory.
-- Store vehicles in an array in heap memory as it is large.
 
 ### Calculate distances between vehicles and given reference coordinates
 - Store reference coordinates in an array.
