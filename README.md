@@ -1,4 +1,4 @@
-# Vehicle Positions Tech Test
+# Vehicle Positions Interview Challenge
 I am required to find the 10 closest vehicles for a given set of reference coordinates.
 
 ## Approach
@@ -13,7 +13,7 @@ Image
 
 ### Calculate distances between vehicles and given reference coordinates
 - Store reference coordinates in an array.
-- Use *Harvestine equation* to calculate distance between vehicles and reference points, using for loops. 
+- Use *Harvesine equation* to calculate distance between vehicles and reference point. 
 
 ### Sort vehicles for each reference coordinate
 - Test different sort algorithm
@@ -87,13 +87,13 @@ The read speed on average was ***4 seconds***.
 Merge Sort and quicksort were memory intensive. Therefore arrays were declared on the heap memory.
 
 ### Top ten vehicles
-The top ten closest places for each reference coordinate was calculated and shown. Each column corresponds to a reference coordinate/point. The  *position ID* for the top ten vehicles for a particular point is listed in that column.
+The top ten places for each reference coordinate was calculated and shown. Each column corresponds to a reference coordinate/point. The  *positionID* of the vehicles closest to a particular point is listed in that column.
 
 **Merge Sort**
- ![Capture](https://user-images.githubusercontent.com/70967943/162728327-5495e6cf-f9b5-4bea-a2c7-4c4c39c0d136.png)
+![mergesort](https://user-images.githubusercontent.com/70967943/162802274-c220e08c-99cf-4de1-99ee-f56dc01a5587.PNG)
 
 **Quick sort**
-![Capture2](https://user-images.githubusercontent.com/70967943/162728701-05103bb8-bb76-468e-b357-649954503edf.png)
+![quicksort](https://user-images.githubusercontent.com/70967943/162802310-0e41f2d4-55ba-46a6-b4bb-243f8b586027.PNG)
 
 
 ## Type of solutions
